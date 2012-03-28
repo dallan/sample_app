@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails Tutorial Sample App | <%= @title %></title>
+  </head>
+  <body>
+    <h1>About Us</h1>
+    <p>
+     
+      is a project to make a book and screencasts to teach web development
+      with This the sample application for the tutorial.
+    </p>
+  </body>
+</html>
