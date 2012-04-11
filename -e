@@ -1,0 +1,15 @@
+..........F.
+
+Failures:
+
+  1) User password validations should reject long passwords
+     Failure/Error: User.new(hash).should_not be_valid
+       expected valid? to return false, got true
+     # ./spec/models/user_spec.rb:86:in `block (3 levels) in <top (required)>'
+
+Finished in 1.07 seconds
+12 examples, 1 failure
+
+Failed examples:
+
+rspec ./spec/models/user_spec.rb:83 # User password validations should reject long passwords
