@@ -1,0 +1,90 @@
+body{background-image:url("/img/cpu_logo_whitebkg.gif");background-repeat:no-repeat; width:100%; margin:0px; }
+.topNav,.appWinNav,#logo,.header,#nav,#Header,.header,#sub-header,#sub-header-wrapper,.lpanel-RightInner-Panel-promo,.right-panel-promo,#grey-panel,#cntrySlctr,#TopBar,#helplinks,#Menu{float:none;display:none; }
+#Content{width:600px; float:none; left:0px;}
+#content,#main{margin:0px; background-image:none;}
+#mainContent,#primaryContent2{margin-left:0px;width:600px;background-image:none;padding-left:10px}
+#primaryContent{float:left;width:350px;}
+#secondaryContent{float:right;width:183px;}
+.secondaryMenu{display:none}
+#primaryMenuL{display:none}
+#primaryMenuR{display:none}
+.hmePgeTle{display:none}
+#divPage { height:100%; padding:0px; margin:0px; }
+
+p{font-size:9pt;line-height:14pt}
+h2{font-size:10pt;line-height:14pt;}
+.copyrightpanelpopup,.copyrightpanel{left:0px;margin-left:0px;width:500px}
+.copyrightBox {text-align:center; margin-top:100px; width:85%; bottom:0px !important; margin-left:auto; margin-right:auto; }
+.imgOff{display:none}
+.imgOn{display:none}
+.tabNav1On{display:none}
+.suppCntnt{text-align:left}
+.callOutBox{border:2px solid #822B70;text-align:left}
+.callOutBox h1{background-color:#822B70;color:#fff;font-size:11px;font-weight:bold;padding:5px}
+.callOutBoxItm{text-align:left}
+.fwWizBtn { display:none; }
+input.hide { display:none; }
+.right-panel-promo { display:none; }
+.left-panel-standard { width:650px !important; font-size:0.9em; margin:0px; padding:0px; }
+
+/* Shift page content title down to clear Computershare logo on print background image */
+.clspageContentTitle { margin-top:50px !important; }
+
+/* Estimation (Third Party Tax) Tax Tables */
+table#taxBreakdown-header { margin:15px 0px 10px 0px; background:#e0e0e0 !important; }
+table#taxBreakdown-header td { background:none; font-size:1.1em; font-weight:bold !important; }
+table#taxBreakdown-header td + td { display:none; }
+table#taxBreakdown-header td + td a { display:none; }
+
+table.taxResult { display:block; margin-top:10px; }
+/* IE wont process this - need display:inline-table for correct display in FF, but IE can't cope with it */
+html>body table.taxResult { display:inline-table !important; margin-top:10px !important; } 
+
+table.taxResult a { text-decoration:none; font-weight:bold !important; color:#000; font-size:0.9em; }
+table.taxResult img.toggleExpand { display:none; }
+/* --------------------------------------- */
+
+#debugexplorer{display:none}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
